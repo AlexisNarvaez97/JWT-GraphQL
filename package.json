@@ -17,7 +17,7 @@
   "author": "Alexis Narvaez",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-express": "^2.9.8",
+    "apollo-server-express": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "chalk": "^3.0.0",
     "compression": "^1.7.4",
